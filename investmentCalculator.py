@@ -1,6 +1,8 @@
 import random
     print("Testing this")
     print ("Testing branch")
+    print ("Testing a new branch commit")
+
 while True:
     simYears = int(input('Please enter the number of years to simulate: '))
     print('Below are the investment options and their ranges of returns : \nMoney Market : (0.1%,8.8%) \nBond :         (0.8%, 12.0%) \nReal Estate :  (-1.2%, 8.4%) \nS&P :          (-43.84%, 52.56%)')
